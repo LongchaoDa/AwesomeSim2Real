@@ -19,7 +19,12 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 ## Surveys and Simulators
 
 **Survey papers**
-1. **xxxxxxy**. *S Rahmani, A Baghbani, et, al*. IEEE Transactions on Intelligent Transportation Systems. 2023. [link](https://ieeexplore.ieee.org/abstract/document/10077454)
+1. **A Survey on Sim-to-Real Transfer Methods for Robotic Manipulation**. *Pitkevich, Andrei and Makarov, Ilya*. IEEE 22nd Jubilee International Symposium on Intelligent Systems and Informatics (SISY). 2024. [link](https://www.researchgate.net/publication/385575540_A_Survey_on_Sim-to-Real_Transfer_Methods_for_Robotic_Manipulation)
+1. **How simulation helps autonomous driving: A survey of sim2real, digital twins, and parallel intelligence**. *Hu, Xuemin and Li, Shen and Huang, Tingyu and Tang, Bo and Huai, Rouxing and Chen, Long*. IEEE Transactions on Intelligent Vehicles. 2023. [link](https://ieeexplore.ieee.org/document/10242366)
+1. **A Brief Survey of Sim2Real Methods for Robot Learning**. *Dimitropoulos, Konstantinos and Hatzilygeroudis, Ioannis and Chatzilygeroudis, Konstantinos*. International Conference on Robotics in Alpe-Adria Danube Region. 2022 [link](https://link.springer.com/chapter/10.1007/978-3-031-04870-8_16)
+1. **A survey of sim-to-real transfer techniques applied to reinforcement learning for bioinspired robots**. *Zhu, Wei and Guo, Xian and Owaki, Dai and Kutsuzawa, Kyo and Hayashibe, Mitsuhiro*. IEEE Transactions on Neural Networks and Learning Systems. 2021 [link](https://ieeexplore.ieee.org/document/9552429)
+1. **Crossing the reality gap: A survey on sim-to-real transferability of robot controllers in reinforcement learning**. *Salvato, Erica and Fenu, Gianfranco and Medvet, Eric and Pellegrino, Felice Andrea*. IEEE Access. 2021 [link](https://ieeexplore.ieee.org/document/9606868)
+1. **Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey**. *Wenshuai Zhao, Jorge Peña Queralta, Tomi Westerlund*. IEEE Symposium Series on Computational Intelligence. 2020. [link](https://ieeexplore.ieee.org/document/9308468)
 1. **xxxxxxy**. *C Wu, I Kim, et, al*. 2023. [link](https://www.sciencedirect.com/science/article/pii/S1877050923005719)
 
 
