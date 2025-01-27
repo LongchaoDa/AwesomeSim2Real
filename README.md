@@ -9,7 +9,7 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 
 - [Sim-to-Real Paper Collection](#Sim-to-Real-Paper-Collection)
   - [Surveys](#surveys-and-simulators)
-  - [NeurIPS](#Technique-Papers)
+  - [Technique-Papers](#Technique-Papers)
     - [Robotics](#Robotics)
     - [Transportation](#Transportation)
     - [Recommender Systems](#Recommender-Systems)
@@ -18,12 +18,19 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 
 ## Surveys and Simulators
 
-Survey papers
+**Survey papers**
 1. **xxxxxxy**. *S Rahmani, A Baghbani, et, al*. IEEE Transactions on Intelligent Transportation Systems. 2023. [link](https://ieeexplore.ieee.org/abstract/document/10077454)
 1. **xxxxxxy**. *C Wu, I Kim, et, al*. 2023. [link](https://www.sciencedirect.com/science/article/pii/S1877050923005719)
 
 
-Simulators
+**Environments and benchmarks**
+(Robotics)
+
+1.  **xxxxxxy**. *M Noaeen, A Naik, L Goodman, J Crebo, et, al.*. 2022. [link](https://www.sciencedirect.com/science/article/pii/S0957417422002858)
+1. **xxxxxxy**. *R Chen, F Fang, N Sadeh*. 2022. [link](https://arxiv.org/abs/2206.11996)
+
+(Robotics2)
+
 1.  **xxxxxxy**. *M Noaeen, A Naik, L Goodman, J Crebo, et, al.*. 2022. [link](https://www.sciencedirect.com/science/article/pii/S0957417422002858)
 1. **xxxxxxy**. *R Chen, F Fang, N Sadeh*. 2022. [link](https://arxiv.org/abs/2206.11996)
 
