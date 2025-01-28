@@ -41,8 +41,8 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 ### Environments and benchmarks 
 #### Robotics Environments
 
-1. **Delving Deeper into Out-of-Distribution Detection in Deep Neural Networks**. *Alok Sahu, Harshit Pandey, et, al.* arXiv preprint arXiv:2301.04195. IEEE Robotics and Automation. 2023. [link](https://arxiv.org/abs/2301.04195) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeplearning-wisc/MCM.git)
-1. **CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks**. *Oier Mees, Lukas Hermann, Erick Rosete-Beas, Wolfram Burgard.* IEEE Robotics and Automation. 2021. [link](https://arxiv.org/abs/2112.03227) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mees/calvin)
+1. **Delving Deeper into Out-of-Distribution Detection in Deep Neural Networks**. *Alok Sahu, Harshit Pandey, et, al.* arXiv preprint arXiv:2301.04195. IEEE Robotics and Automation. 2023. [link](https://arxiv.org/abs/2301.04195) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/deeplearning-wisc/MCM.git)  
+1. **CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks**. *Oier Mees, Lukas Hermann, Erick Rosete-Beas, Wolfram Burgard.* IEEE Robotics and Automation. 2021. [link](https://arxiv.org/abs/2112.03227) 
 
 1. **robosuite: A Modular Simulation Framework and Benchmark for Robot Learning**. *Yuke Zhu, Josiah Wong, Ajay Mandlekar, Roberto Martín-Martín, Abhishek Joshi, Kevin Lin, Abhiram Maddukuri, Soroush Nasiriany, Yifeng Zhu.* IEEE Robotics and Automation. 2020. [link](https://arxiv.org/abs/2009.12293)
 1. **dm_control: Software and tasks for continuous control**. *Saran Tunyasuvunakool and Alistair Muldal and Yotam Doron and Siqi Liu and Steven Bohez and Josh Merel and Tom Erez and Timothy Lillicrap and Nicolas Heess and Yuval Tassa.* Software Impacts. 2020. [link](https://www.sciencedirect.com/science/article/pii/S2665963820300099)
