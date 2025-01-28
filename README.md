@@ -7,18 +7,28 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 
 
 
-- [Sim-to-Real Paper Collection](#Sim-to-Real-Paper-Collection)
-  - [Surveys](#surveys-and-simulators)
-  - [Technique-Papers](#Technique-Papers)
-    - [Robotics](#Robotics)
-    - [Transportation](#Transportation)
-    - [Recommender Systems](#Recommender-Systems)
-    - [Other](#Other-Fields)
+- [Sim-to-Real Paper Collection](#sim-to-real-paper-collection)
+  - [Surveys and Simulators](#surveys-and-simulators)
+    - [Survey Papers](#survey-papers)
+    - [Environments and Benchmarks](#environments-and-benchmarks)
+      - [Robotics Environments](#robotics-environments)
+      - [Robotics Benchmarks](#robotics-benchmarks)
+      - [Transportation Environments](#transportation-environments)
+      - [Transportation Benchmarks](#transportation-benchmarks)
+      - [Recommender System Environments](#recommender-system-environments)
+      - [Recommender System Benchmarks](#recommender-system-benchmarks)
+      - [Other Environments](#other-environments)
+      - [Other Benchmarks](#other-benchmarks)
+  - [Technique Papers](#technique-papers)
+    - [Obeservation](#obeservation)
+    - [Action](#action)
+    - [Transistion](#transistion)
+    - [Reward](#reward)
 
 
 ## Surveys and Simulators
 
-**Survey papers**
+### Survey Papers
 1. **A Survey on Sim-to-Real Transfer Methods for Robotic Manipulation**. *Pitkevich, Andrei and Makarov, Ilya*. IEEE 22nd Jubilee International Symposium on Intelligent Systems and Informatics (SISY). 2024. [link](https://www.researchgate.net/publication/385575540_A_Survey_on_Sim-to-Real_Transfer_Methods_for_Robotic_Manipulation)
 1. **How simulation helps autonomous driving: A survey of sim2real, digital twins, and parallel intelligence**. *Hu, Xuemin and Li, Shen and Huang, Tingyu and Tang, Bo and Huai, Rouxing and Chen, Long*. IEEE Transactions on Intelligent Vehicles. 2023. [link](https://ieeexplore.ieee.org/document/10242366)
 1. **Parallel learning: Overview and perspective for computational learning across Syn2Real and Sim2Real**. *HMiao, Qinghai and Lv, Yisheng and Huang, Min and Wang, Xiao and Wang, Fei-Yue*. IEEE/CAA Journal of Automatica Sinica. 2023. [link](https://ieeexplore.ieee.org/document/10057176)
@@ -28,7 +38,7 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 1. **Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey**. *Wenshuai Zhao, Jorge Peña Queralta, Tomi Westerlund*. IEEE Symposium Series on Computational Intelligence. 2020. [link](https://ieeexplore.ieee.org/document/9308468)
 
 
-**Environments and benchmarks** 
+### Environments and benchmarks 
 #### Robotics Environments
 
 1. **Delving Deeper into Out-of-Distribution Detection in Deep Neural Networks**. *Alok Sahu, Harshit Pandey, et, al.* arXiv preprint arXiv:2301.04195. IEEE Robotics and Automation. 2023. [link](https://arxiv.org/abs/2301.04195)
@@ -92,24 +102,42 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 #### Other Benchmarks
 1. **Benchmarking Safe Exploration in Deep Reinforcement Learning**. *Alex Ray, Joshua Achiam, Dario Amodei*. 2019. [link](https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning/)
 1. **EnergyPlus: creating a new-generation building energy simulation program**. *Crawley, Drury B and Lawrie, Linda K and Winkelmann, Frederick C and Buhl, et, al*. 2001. [link](https://www.sciencedirect.com/science/article/abs/pii/S0378778800001146)
+
+
 ## Technique Papers
 
 
-#### Robotics
+#### Observation
+
+**Domain Randomization**
+1. **Learning Vision-Based Bipedal Locomotion for Challenging Terrain**. *Helei Duan, Bikram Pandit, Mohitvishnu S. Gadde, Bart Van Marum, Jeremy Dao,Chanho Kim, and Alan Fern.*. IEEE International Conference on Robotics and Automation (ICRA). 2024. [link](https://arxiv.org/abs/2309.14594)
+1. **Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning**. *Zhecheng Yuan, Tianming Wei, Shuiqi Cheng, Gu Zhang, Yuanpei Chen, Huazhe Xu*. 2024. [link](https://arxiv.org/abs/2407.15815)
+1. **DROPO: Sim-to-real transfer with offline domain randomization**. *Gabriele Tiboni, Karol Arndt, Ville Kyrki
+*. Robotics and Autonomous Systems. 2023. [link](https://arxiv.org/abs/2201.08434)
+1. **Bridging the Reality Gap Between Virtual and Physical Environments Through Reinforcement Learning**. *Mahesh Ranaweera, Qusay H. Mahmoud et, al*. IEEE Access. 2023. [link](https://ieeexplore.ieee.org/document/10054009)
+1. **Solving Rubik's Cube with a Robot Hand**. *S OpenAI et, al*. CoRR. 2019. [link](https://arxiv.org/abs/1910.07113)
+1. **Asymmetric Actor Critic for Image-Based Robot Learning**. *Lerrel Pinto, Marcin Andrychowicz, Peter Welinder, Wojciech Zaremba, Pieter Abbeel*. CoRR. 2017. [link](https://ieeexplore.ieee.org/abstract/document/10077454)
+1. **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World**. *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel*. IEEE/RSJ International Conference on Intelligent Robots and Systems. 2017. [link](https://arxiv.org/abs/1703.06907)
+**Domain Adaptation**
+
+**Sensor Fusion**
+
+**Foundation Models**
+
 1. **xxxxxxy**. *S Rahmani, A Baghbani, et, al*. IEEE Transactions on Intelligent Transportation Systems. 2023. [link](https://ieeexplore.ieee.org/abstract/document/10077454)
 1. **xxxxxxy**. *C Wu, I Kim, et, al*. 2023. [link](https://www.sciencedirect.com/science/article/pii/S1877050923005719)
 
 
-#### Transportation
+#### Action
 1.  **xxxxxxy**. *M Noaeen, A Naik, L Goodman, J Crebo, et, al.*. 2022. [link](https://www.sciencedirect.com/science/article/pii/S0957417422002858)
 1. **xxxxxxy**. *R Chen, F Fang, N Sadeh*. 2022. [link](https://arxiv.org/abs/2206.11996)
 
-#### Recommender Systems
+#### Transition
 
 1.  **xxxxxxy**. *M Noaeen, A Naik, L Goodman, J Crebo, et, al.*. 2022. [link](https://www.sciencedirect.com/science/article/pii/S0957417422002858)
 1. **xxxxxxy**. *R Chen, F Fang, N Sadeh*. 2022. [link](https://arxiv.org/abs/2206.11996)
 
-#### Other Fields
+#### Reward
 
 1.  **xxxxxxy**. *M Noaeen, A Naik, L Goodman, J Crebo, et, al.*. 2022. [link](https://www.sciencedirect.com/science/article/pii/S0957417422002858)
 1. **xxxxxxy**. *R Chen, F Fang, N Sadeh*. 2022. [link](https://arxiv.org/abs/2206.11996)
