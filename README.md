@@ -1,7 +1,7 @@
 # AwesomeSim2Real
 
 
-# The Research Trend in Sim2Real RL
+## The Research Trend in Sim2Real RL
 The image only shows the paper included in this page, maybe not covering all papers, please let us know if your work is relevant to this community!
 <img src="./assets/year_distribution.png" alt="Description of image" width="800" title="Tooltip on hover" />
 
