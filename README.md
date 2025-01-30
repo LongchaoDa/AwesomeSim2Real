@@ -248,6 +248,12 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 1. **EvoPrompting: language models for code-level neural architecture search**. *Angelica Chen, David Dohan, David So*. Advances in Neural Information Processing Systems. 2024. [link](Nohttps://arxiv.org/abs/2302.14838ink)
 1. **Accessing gpt-4 level mathematical olympiad solutions via monte carlo tree self-refine with llama-3 8b**. *Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang*. 2024. [link](https://arxiv.org/abs/2406.07394)
 
+
+# The Research Trend in Sim2Real RL
+<img src="./assets/year_distribution.png" alt="Description of image" width="800" title="Tooltip on hover" />
+
+
+
 # Cite
 
 If you find AwesomeSim2real and our survey paper useful for your research or development, please cite our [paper](xxxxxxx).
