@@ -249,9 +249,10 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 1. **Accessing gpt-4 level mathematical olympiad solutions via monte carlo tree self-refine with llama-3 8b**. *Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang*. 2024. [link](https://arxiv.org/abs/2406.07394)
 
 
-# The Research Trend in Sim2Real RL
+# The Research Trend in Sim-to-Real RL
 <img src="./assets/year_distribution.png" alt="Description of image" width="800" title="Tooltip on hover" />
 
+The sim-to-real research work has been an interest in well-known venues, such as: **ICRA, IROS, CoRL, ICLR, AAAI, CVPR, NeurIPS, SISY, RAAD, SSCI, ITSC, CIKM, CDC, CoDIT, IV, ICANN, Aerospace, etc**.
 
 
 # Cite
