@@ -5,6 +5,8 @@
 
 In the paper collection, we collected RL-based sim-to-real papers published in the recent years (201x-202x) on top conferences and journals, and categorize based on the research domains, namely simulators, robotics, transportations and others.
 
+<img src="./assets/framework.jpg" alt="Description of image" width="800" title="Tooltip on hover" />
+
 
 
 - [Sim-to-Real Paper Collection](#sim-to-real-paper-collection)
