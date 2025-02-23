@@ -262,7 +262,7 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 
 # Cite
 
-If you find AwesomeSim2real and our survey paper useful for your research or development, please cite our [paper](xxxxxxx).
+If you find AwesomeSim2real and our survey paper useful for your research or development, please cite our [paper](https://arxiv.org/abs/2502.13187).
 
 ```
 @article{da2025survey,
