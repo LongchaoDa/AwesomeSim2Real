@@ -265,10 +265,10 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 If you find AwesomeSim2real and our survey paper useful for your research or development, please cite our [paper](xxxxxxx).
 
 ```
-@article{xxx,
-  title={xxx: xxx},
-  author={xxxx},
-  journal={arXiv preprint arXiv:xxx},
+@article{da2025survey,
+  title={A Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models},
+  author={Da, Longchao and Turnau, Justin and Kutralingam, Thirulogasankar Pranav and Velasquez, Alvaro and Shakarian, Paulo and Wei, Hua},
+  journal={arXiv preprint arXiv:2502.13187},
   year={2025}
 }
 ```
