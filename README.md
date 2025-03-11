@@ -51,6 +51,12 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 
 
 ### Environments and benchmarks 
+
+<img src="./assets/table.jpg" alt="The Summary of Simulators and Benchmarks Across Various Fields.  In each field, we categorize into plain Environments and Sim-to-Real Benchmark which is specially designed to support Sim-to-Real tasks." width="950" title="Tooltip on hover" />
+
+
+
+
 #### **Robotics Environments**
 
 1. **Delving Deeper into Out-of-Distribution Detection in Deep Neural Networks**. *Alok Sahu, Harshit Pandey, et, al.* . IEEE Robotics and Automation. 2023. [link](https://arxiv.org/abs/2301.04195) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeplearning-wisc/MCM.git)
