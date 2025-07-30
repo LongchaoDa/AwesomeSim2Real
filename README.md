@@ -1,5 +1,7 @@
 # AwesomeSim2Real
 
+🚀 **Contributions Welcome!** If you’ve published or come across any Sim2Real RL papers not listed here, please feel free to open an issue — we’d love to add them to this list and update our survey! 🚀
+
 
 ## The Research Trend in Sim2Real RL
 The image only shows the paper included in this page, maybe not covering all papers, please let us know if your work is relevant to this community!
