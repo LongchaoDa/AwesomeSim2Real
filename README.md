@@ -242,6 +242,7 @@ In the paper collection, we collected RL-based sim-to-real papers published in t
 1. **Conditional adversarial domain adaptation**. *Mingsheng Long, Zhangjie Cao, Jianmin Wang, Michael I Jordan*. Advances in neural information processing systems. 2018. [link](https://arxiv.org/abs/1705.10667)
 1. **Multi-adversarial domain adaptation**. *Zhongyi Pei, Zhangjie Cao, Mingsheng Long, Jianmin Wang*. 2018. [link](https://arxiv.org/abs/1809.02176)
 1. **Adversarial discriminative domain adaptation**. *Eric Tzeng, Judy Hoffman, Kate Saenko, Trevor Darrell*. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017. [link](https://ieeexplore.ieee.org/document/8099799)
+1. **Overcoming the Sim-to-Real Gap: Leveraging Simulation to Learn to Explore for Real-World RL**. *Andrew Wagenmaker, Kevin Huang, Liyiming Ke, Kevin Jamieson, Abhishek Gupta*. Advances in Neural Information Processing Systems 37 (NeurIPS 2024). 
 
 **Grounding Methods**
 
